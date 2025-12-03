@@ -1,1 +1,1 @@
-Pasta cujo objetivo é colocar meus projetos que estou criando.
+I'm just an 18-year-old Brazilian who decided to learn programming because I'm unemployed and have a lot of free time to devote to it. I'm only just getting started, but in the future I hope to build useful things and create large, working projects (because that's what matters). So if you're reading this, please don't be put off by my messy code — I'm just a beginner. Thank you for taking the time to read this!
